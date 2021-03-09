@@ -12,5 +12,7 @@
     <color name="ripple_effect_color">#f816a463</color>
     <color name="btn_sign_in">#1fbad6</color>
     <color name="btn_register">#83838c</color>
+    <color name="color_primary">#0a091b</color>
+    <color name="color_primary_dark">#070716</color>
 
 </resources>
